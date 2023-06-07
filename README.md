@@ -1,4 +1,5 @@
-# Laravel React Running PHP-fpm 7.4
+# Laravel 10 Running PHP-fpm 8.1
+## NextJs 13 Running On Node:Latest Image
 
 ## Development Build Setup
 
